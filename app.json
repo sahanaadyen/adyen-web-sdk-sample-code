@@ -12,10 +12,10 @@
   "repository": "https://github.com/Adyen/adyen-checkout-js-sdk-php-example",
   "env": {
     "MERCHANT_ACCOUNT": {
-      "description": "Your merchant account"
+      "description": "SahanaVittal"
     },
     "CHECKOUT_API_KEY": {
-      "description": "Your checkout API key"
+      "description": "AQEyhmfxLI/GbRFDw0m/n3Q5qf3VaY9UCJ1+XWZe9W27jmlZimb3/zxRZyjzkUh3O1KBooUQwV1bDb7kfNy1WIxIIkxgBw==-m5+nyyQftEoNrJfCsuZ9fBseVaXMYrer+ThwmhlPOY8=-8f2TMRewuvUzCg73"
     },
     "PROTOCOL": {
       "description" : "Which protocol to add to the origin var / url generator function",
