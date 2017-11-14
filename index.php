@@ -39,8 +39,8 @@ include ('config/timezone.php');
     <div class="explanation hidden">
         <h3>To run this web checkout example, edit the following variables in the <b>config/authentication.ini</b> file:</h3>
         <p>
-            <b>merchantAccount</b>= "YOUR MERCHANT ACCOUNT", more information in our <a href="https://docs.adyen.com/developers/get-started-with-adyen/create-a-test-account">Getting started guide</a>.<br/>
-            <b>checkoutAPIkey</b>= "YOUR CHECKOUT API KEY".
+            <b>merchantAccount</b>= "SahanaVittal", more information in our <a href="https://docs.adyen.com/developers/get-started-with-adyen/create-a-test-account">Getting started guide</a>.<br/>
+            <b>checkoutAPIkey</b>= "AQEyhmfxLI/GbRFDw0m/n3Q5qf3VaY9UCJ1+XWZe9W27jmlZimb3/zxRZyjzkUh3O1KBooUQwV1bDb7kfNy1WIxIIkxgBw==-m5+nyyQftEoNrJfCsuZ9fBseVaXMYrer+ThwmhlPOY8=-8f2TMRewuvUzCg73".
         </p>
     </div>
 
